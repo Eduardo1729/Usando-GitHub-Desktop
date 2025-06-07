@@ -1,2 +1,4 @@
 # Usando-GitHub-Desktop
-Manoseando o Desktop del GitHub
+Manuseando o Desktop do GitHub
+
+Criado numa aula no YouTube
